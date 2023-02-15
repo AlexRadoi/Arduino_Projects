@@ -1,4 +1,4 @@
-//programul schimba culoarea unui LED RGB dupa durata pasarii unui buton, si poate fii stinge LED-ul prin batai din palma/suflat
+//programul schimba culoarea unui LED RGB dupa durata apasarii unui buton, si poate sa stinga LED-ul prin batai din palma/suflat
 int mic= A0;
 int press_duration=0;
 int button=8;
